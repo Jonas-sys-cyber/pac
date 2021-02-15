@@ -7,3 +7,7 @@ install a bash file
 ```
 pac -b filename commandname
 ```
+install git repo
+```
+pac -S gitrepo(only pac compatible) commandname
+```
